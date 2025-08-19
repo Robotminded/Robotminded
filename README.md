@@ -7,6 +7,7 @@ Currently building **Project Purple** — a sleek, neon-inspired theme bundle (G
 [![Stars](https://img.shields.io/github/stars/Robotminded/ProjectPurple?label=ProjectPurple%20stars)](https://github.com/Robotminded/ProjectPurple/stargazers)
 [![Latest Release](https://img.shields.io/github/v/release/Robotminded/ProjectPurple?display_name=tag)](https://github.com/Robotminded/ProjectPurple/releases)
 [![Website](https://img.shields.io/badge/Website-robotminded.github.io-informational)](https://robotminded.github.io)
+[![License: MIT + CC BY-NC](https://img.shields.io/badge/License-MIT%20+%20CC%20BY--NC-purple)](./LICENSE)
 
 ---
 
